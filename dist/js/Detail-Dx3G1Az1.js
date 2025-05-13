@@ -1,0 +1,1 @@
+import{_ as e}from"../assets/index-DAeJX3GH.js";import{E as t,o as r,_ as n}from"./vue-runtime-ZG-tStbc.js";import"./element-plus-DvFYwbwC.js";const s={name:"Detail"};function a(c,_,p,i,m,f){const o=n("router-view");return r(),t(o)}const $=e(s,[["render",a]]);export{$ as default};
